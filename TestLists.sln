@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLists", "TestLists\TestLists.csproj", "{53B15B0C-AE8F-41A3-A56C-E156578709CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{886E0BA1-06FB-4E54-9F53-A315B8067345}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53B15B0C-AE8F-41A3-A56C-E156578709CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B15B0C-AE8F-41A3-A56C-E156578709CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B15B0C-AE8F-41A3-A56C-E156578709CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B15B0C-AE8F-41A3-A56C-E156578709CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65EE1708-04B4-428F-A943-BC203BCFFCAD}
+	EndGlobalSection
+EndGlobal
